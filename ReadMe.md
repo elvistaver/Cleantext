@@ -1,6 +1,6 @@
 # Task: Clean Text
 
-## mplement:
+## Implement:
 ```
 func CleanText(text string) string
 ```
